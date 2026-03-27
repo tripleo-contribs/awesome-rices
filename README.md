@@ -84,6 +84,7 @@
     - [ad1822](#ad1822)
     - [1amSimp1e](#1amsimp1e-1)
     - [AdiKsOnDev](#adiksondev)
+    - [ArchEclipse](#archeclipse)
     - [cafreo](#cafreo)
     - [command-z-z](#command-z-z)
     - [conrad-mo](#conrad-mo)
@@ -92,7 +93,6 @@
     - [debuggyo](#debuggyo)
     - [dragoshr1234](#dragoshr1234)
     - [end-4](#end-4)
-    - [ArchEclipse](#archeclipse)
     - [HeinzDev](#heinzdev)
     - [justinlime](#justinlime)
     - [Knightfall01](#knightfall01)
@@ -462,11 +462,6 @@
 
 ## Hyprland
 
-### [ArchEclipse](https://github.com/AymanLyesri/ArchEclipse)
-
-[![ArchEclipse](https://raw.githubusercontent.com/AymanLyesri/ArchEclipse/master/.github/assets/overview.png)](https://github.com/AymanLyesri/ArchEclipse)
-[![ArchEclipse](https://raw.githubusercontent.com/AymanLyesri/ArchEclipse/master/.github/assets/wallpaper-switcher.png)](https://github.com/AymanLyesri/ArchEclipse)
-
 ### [ad1822](https://github.com/ad1822/hyprdots)
 
 [![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/main.png)](https://github.com/ad1822/hyprdots)
@@ -485,6 +480,10 @@
 [![AdiKsOnDev](https://github.com/AdiKsOnDev/HyprValley/assets/80326762/11d06e28-f7b3-4cf1-98e9-a233a3c2d0f7)](https://github.com/AdiKsOnDev/HyprValley)
 [![AdiKsOnDev](https://github.com/AdiKsOnDev/HyprValley/assets/80326762/6c45a90d-fd4d-419e-98da-52aa73ac4f01)](https://github.com/AdiKsOnDev/HyprValley)
 [![AdiKsOnDev](https://github.com/AdiKsOnDev/HyprValley/assets/80326762/84a2f0b1-a922-413f-b7c8-c03e56d83458)](https://github.com/AdiKsOnDev/HyprValley)
+### [ArchEclipse](https://github.com/AymanLyesri/ArchEclipse)
+
+[![ArchEclipse](https://raw.githubusercontent.com/AymanLyesri/ArchEclipse/master/.github/assets/overview.png)](https://github.com/AymanLyesri/ArchEclipse)
+[![ArchEclipse](https://raw.githubusercontent.com/AymanLyesri/ArchEclipse/master/.github/assets/wallpaper-switcher.png)](https://github.com/AymanLyesri/ArchEclipse)
 
 ### [cafreo](https://github.com/cafreo/hyprland-intergalactic)
 
