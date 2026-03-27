@@ -92,6 +92,7 @@
     - [debuggyo](#debuggyo)
     - [dragoshr1234](#dragoshr1234)
     - [end-4](#end-4)
+    - [ArchEclipse](#archeclipse)
     - [HeinzDev](#heinzdev)
     - [justinlime](#justinlime)
     - [Knightfall01](#knightfall01)
@@ -209,6 +210,7 @@
 [![frapdotbm](https://user-images.githubusercontent.com/118438453/218368968-958e54f0-b70f-4a33-83f0-bda9c2641cb8.png)](https://github.com/frapdotbmp/dotfiles)
 
 ### [gabrielfrimodig](https://github.com/gabrielfrimodig/dotfiles)
+
 [![gabrielfrimodig](https://github.com/gabrielfrimodig/dotfiles/blob/master/.github/assets/full_desktop.png?raw=true)](https://github.com/gabrielfrimodig/dotfiles)
 
 ### [HoNamDuong](https://github.com/HoNamDuong/.dotfiles)
@@ -237,7 +239,6 @@
 
 [![PassiveLemon](https://github.com/PassiveLemon/lemonix/raw/master/other/Desktop-lock.png)](https://github.com/PassiveLemon/lemonix)
 [![PassiveLemon](https://github.com/PassiveLemon/lemonix/blob/master/other/Desktop-1.png?raw=true)](https://github.com/PassiveLemon/lemonix)
-
 
 ### [rifsxd](https://github.com/rifsxd/oh-my-awesomewm-dots)
 
@@ -342,7 +343,6 @@
 
 [![probe2k](https://camo.githubusercontent.com/a209f139c8b0853a40ea5e3acf960e1aea2fafdd6621e24cea643a250cafc0c0/68747470733a2f2f692e726564642e69742f3533377a7366786d34376837312e706e67)](https://github.com/probe2k/bspwm_rice)
 
-
 ### [rklyz](https://github.com/rklyz/.files)
 
 [![rklyz](https://github.com/rklyz/.files/blob/main/screenshot.png?raw=true)](https://github.com/rklyz/.files)
@@ -386,7 +386,6 @@
 ## Cinnamon
 
 ### [SpreadiesInSpace](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/tree/main)
-
 
 [![SpreadiesInSpace](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/blob/main/screenshots/CinnamonGruvbox2024.png?raw=true)](https://github.com/SpreadiesInSpace/cinnamon-dotfiles/tree/main)
 
@@ -449,7 +448,6 @@
 [![slashedzer0](https://github.com/slashedzer0/nobara-dotfiles/blob/catppuccin/screenshots/busy.png?raw=true)](https://github.com/slashedzer0/nobara-dotfiles)
 [![slashedzer0](https://github.com/slashedzer0/nobara-dotfiles/blob/catppuccin/screenshots/terminal.png?raw=true)](https://github.com/slashedzer0/nobara-dotfiles)
 
-
 ## Herbstluftwm
 
 ### [nuxshed](https://github.com/nuxshed/dotfiles)
@@ -463,6 +461,11 @@
 [![scourii](https://user-images.githubusercontent.com/64178604/119293354-3f2fba80-bc20-11eb-865a-5ba0191b4fc2.png)](https://github.com/scourii/.dotfiles/tree/main)
 
 ## Hyprland
+
+### [ArchEclipse](https://github.com/AymanLyesri/ArchEclipse)
+
+[![ArchEclipse](https://raw.githubusercontent.com/AymanLyesri/ArchEclipse/master/.github/assets/overview.png)](https://github.com/AymanLyesri/ArchEclipse)
+[![ArchEclipse](https://raw.githubusercontent.com/AymanLyesri/ArchEclipse/master/.github/assets/wallpaper-switcher.png)](https://github.com/AymanLyesri/ArchEclipse)
 
 ### [ad1822](https://github.com/ad1822/hyprdots)
 
@@ -524,10 +527,10 @@
 [![HeinzDev](https://camo.githubusercontent.com/14558092ed81bb9b2a7cbae753aa2628c6337738b9b9c4ea86df9728ac7b478f/68747470733a2f2f692e696d6775722e636f6d2f304c7134724f652e706e67)](https://github.com/HeinzDev/Hyprland-dotfiles)
 
 ### [justinlime](https://github.com/justinlime/dotfiles)
+
 [![justinlime](https://camo.githubusercontent.com/30ef249716ca269ff730a4f7ef30831805c5e00ba21ecb7353a5f22616b4ccb0/68747470733a2f2f696d6775722e636f6d2f4273576b58437a2e706e67)](https://github.com/justinlime/dotfiles)
 [![justinlime](https://camo.githubusercontent.com/227dac379323b5047fb0a93063948d4ac0d61050e61291d8f4949bd467a90972/68747470733a2f2f696d6775722e636f6d2f463467475271612e706e67)](https://github.com/justinlime/dotfiles)
 [![justinlime](https://camo.githubusercontent.com/0f6399845b1fc210a0d4ce6043866b50adb852ff635819cbdf8fc5b0f4d2a678/68747470733a2f2f696d6775722e636f6d2f454673624c7a652e706e67)](https://github.com/justinlime/dotfiles)
-
 
 ### [Knightfall01](https://github.com/Knightfall01/Hyprland-i3/tree/master)
 
@@ -538,7 +541,6 @@
 [![Knightfall01](https://github.com/knightfallxz/Hyprland-Custom-Configuration/blob/master/assets/ImagesShowcase.png?raw=true)](https://github.com/Knightfall01/Hyprland-i3/tree/master)
 [![Knightfall01](https://user-images.githubusercontent.com/107239398/218796171-0a421c4d-6ea4-42e2-8203-f8942f3df8b0.png)](https://github.com/Knightfall01/Hyprland-i3/tree/master)
 [![Knightfall01](https://user-images.githubusercontent.com/107239398/219070968-a5e11084-dcf9-4cdf-885d-eb59ef96f005.png)](https://github.com/Knightfall01/Hyprland-i3/tree/master)
-
 
 ### [MathisP75](https://github.com/MathisP75/summer-day-and-night)
 
@@ -591,12 +593,14 @@
 [![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/vim_styled/repo/5.png)](https://github.com/qxb3/gruvbox.hypr/tree/vim_styled)
 
 ### [shub39](https://github.com/shub39/dotfiles)
+
 [![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/1.png)](https://github.com/shub39/dotfiles)
 [![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/2.png)](https://github.com/shub39/dotfiles)
 [![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/3.png)](https://github.com/shub39/dotfiles)
 [![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/4.png)](https://github.com/shub39/dotfiles)
 
 ### [Sly-Harvey](https://github.com/Sly-Harvey/NixOS)
+
 [![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview1.png)](https://github.com/Sly-Harvey/NixOS)
 [![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview2.png)](https://github.com/Sly-Harvey/NixOS)
 [![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview3.png)](https://github.com/Sly-Harvey/NixOS)
@@ -616,28 +620,30 @@
 [![Yorubae](https://github.com/Yorubae/wayland-dotfiles/raw/main/preview/ss4.png)](https://github.com/Yorubae/wayland-dotfiles)
 
 ### [Lonewolf4713](https://github.com/LoneWolf4713/aeronix-dotfiles)
+
 [![LoneWolf4713](https://i.imgur.com/GRsMD0R.png)](https://github.com/LoneWolf4713/aeronix-dotfiles)
 [![LoneWolf4713](https://i.imgur.com/vJGFQl0.png)](https://github.com/LoneWolf4713/aeronix-dotfiles)
 [![LoneWolf4713](https://i.imgur.com/EpQVw39.png)](https://github.com/LoneWolf4713/aeronix-dotfiles)
 [![LoneWolf4713](https://i.imgur.com/mWrGOX7.png)](https://github.com/LoneWolf4713/aeronix-dotfiles)
 
 ### [Lonewolf4713](https://github.com/LoneWolf4713/seraphic.dotfiles)
+
 [![LoneWolf4713](https://i.imgur.com/eTHIX37.gif)](https://github.com/LoneWolf4713/seraphic.dotfiles)
 [![LoneWolf4713](https://i.imgur.com/CmAtp5N.png)](https://github.com/LoneWolf4713/seraphic.dotfiles)
 [![LoneWolf4713](https://i.imgur.com/GzBBlOk.png)](https://github.com/LoneWolf4713/seraphic.dotfiles)
 [![LoneWolf4713](https://i.imgur.com/pAHJ642.gif)](https://github.com/LoneWolf4713/seraphic.dotfiles)
 
 ### [Lonewolf4713](https://github.com/LoneWolf4713/blue-monday.dots)
+
 [![LoneWolf4713](https://i.imgur.com/jueMHR9.png)](https://github.com/LoneWolf4713/blue-monday.dots)
 [![LoneWolf4713](https://i.imgur.com/n1xErEU.png)](https://github.com/LoneWolf4713/blue-monday.dots)
 [![LoneWolf4713](https://i.imgur.com/NfqSiEa.png)](https://github.com/LoneWolf4713/blue-monday.dots)
 
 ### [Lonewolf4713](https://github.com/LoneWolf4713/auspicious-dots)
+
 [![LoneWolf4713](https://i.imgur.com/2GHSpXr.png)](https://github.com/LoneWolf4713/auspicious-dots)
 [![LoneWolf4713](https://i.imgur.com/66rlfYd.png)](https://github.com/LoneWolf4713/auspicious-dots)
 [![LoneWolf4713](https://i.imgur.com/iuRoI4O.png)](https://github.com/LoneWolf4713/auspicious-dots)
-
-
 
 ## i3wm
 
@@ -783,6 +789,7 @@
 [![viperML](https://github.com/viperML/dotfiles/raw/master/misc/img/20230129.png)](https://github.com/viperML/dotfiles)
 
 ### [Lonewolf4713](https://github.com/LoneWolf4713/new-wave)
+
 [![LoneWolf4713](https://i.imgur.com/UB5x5lC.png)](https://github.com/LoneWolf4713/new-wave)
 [![LoneWolf4713](https://i.imgur.com/49nAd8F.png)](https://github.com/LoneWolf4713/new-wave)
 [![LoneWolf4713](https://i.imgur.com/J0c5YM7.png)](https://github.com/LoneWolf4713/new-wave)
@@ -820,9 +827,6 @@
 
 [![ZhongXiLu](https://user-images.githubusercontent.com/25816683/135727227-9a02917c-a1be-4790-bf46-3a91cbc29453.png)](https://github.com/ZhongXiLu/dotfiles)
 [![ZhongXiLu](https://user-images.githubusercontent.com/25816683/135727264-25800513-c2b9-4eb9-ab33-0fd17b6cbcec.png)](https://github.com/ZhongXiLu/dotfiles)
-
-
-
 
 # Contribute
 
